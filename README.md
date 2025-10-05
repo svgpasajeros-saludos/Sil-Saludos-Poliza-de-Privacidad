@@ -34,7 +34,7 @@
   <h3>1. ¿Qué tipo de información recopilamos?</h3>
   <p>En <strong>Sil Saludos</strong>, recopilamos información personal y no personal, como:</p>
   <ul>
-    <li>Nombre, correo electrónico y datos de contacto (si los proporcionas)</li>
+    <li>Nombre, correo electrónico y datos de contacto svgpasajeros@gmail.com</li>
     <li>Datos del dispositivo y de uso (como tipo de dispositivo y actividad en la app o sitio web)</li>
   </ul>
 
